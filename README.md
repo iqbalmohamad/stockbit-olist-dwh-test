@@ -1,6 +1,8 @@
 # Stockbit/Bibit — Senior Data Engineer Technical Test
 **Candidate:** Mohammad Iqbal
 
+Github repo for this test: https://github.com/iqbalmohamad/stockbit-olist-dwh-test
+
 ---
 
 ## Task 1 — Data Pipeline Architecture
